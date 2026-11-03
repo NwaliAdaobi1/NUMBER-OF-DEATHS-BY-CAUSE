@@ -9,7 +9,7 @@ Understanding the major causes of death and their distribution across countries 
 This project addresses this gap by analyzing 30 years of mortality data to uncover key patterns, identify the leading causes of death, and highlight countries with the highest death counts.
 
 ## Data Sourcing
-The dataset is a public-made dataset available on Kaggle for practical purpose, containing 6061 records from a period of 1990 to 2019.
+The dataset is a public-made dataset available on Kaggle for practical purpose, containing 6060 records from a period of 1990 to 2019.
 
 The key fields include;
  - Country
