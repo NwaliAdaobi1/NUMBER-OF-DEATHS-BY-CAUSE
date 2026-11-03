@@ -46,10 +46,10 @@ A Galaxy Schema was built in Power BI to connect the fact tables to the Dimensio
  - **Country Count**: Shows the total number of countries covered in the mortality analysis. 
  - **Cause Count**: Indicates the total number of distinct causes of death analyzed in the dataset. 
  - **Top Country**: Identifies the country with the highest recorded number of deaths across the period. 
- - **Top Cause88: Highlights the leading cause of death with the highest recorded number of deaths globally.
+ - **Top Cause**: Highlights the leading cause of death with the highest recorded number of deaths globally.
 
 ## Dashboard and Visuals
-Two interactive dashboards was built to analyze the mortality rate in 30 years.
+Two interactive dashboards were built to analyze the mortality rate in 30 years.
 
 ![](Overview.png)
 
