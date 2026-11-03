@@ -51,9 +51,9 @@ A Galaxy Schema was built in Power BI to connect the fact tables to the Dimensio
 ## Dashboard and Visuals
 Two interactive dashboards was built to analyze the mortality rate in 30 years.
 
-![]{Dahbooard_1.png}
+![](Dahbooard_1.png)
 
-![]{Dashboard _2.png}
+![](Distributions.png)
 
 ##Insights and Findings
 The analysis recorded approximately **1.49 billion deaths** across 208 countries and 31 causes over the 30-year period. Global deaths increased from approximately 44 million in 1990 to nearly 55 million in 2019, with a more noticeable upward trend from 2000 onwards. The increasing number of deaths highlights the growing global mortality burden and the need for stronger public health interventions.
