@@ -51,7 +51,7 @@ A Galaxy Schema was built in Power BI to connect the fact tables to the Dimensio
 ## Dashboard and Visuals
 Two interactive dashboards was built to analyze the mortality rate in 30 years.
 
-![](Dahbooard_1.png)
+![](Overview.png)
 
 ![](Distributions.png)
 
