@@ -1,4 +1,4 @@
-# NUMBER OF GLOBAL DEATHS BY CAUSE - *What Mortality rate looks like in 30 years* 
+# NUMBER OF GLOBDEATHS BY CAUSE - *What Mortality rate looks like in 30 years* 
 
 ## Introduction
 This project analyses global mortality trends over a 30-year period, examining the number of deaths attributed to different causes across countries. The analysis focuses on identifying the leading causes of death, tracking changes in mortality patterns over time, and highlighting countries with the highest death counts. The goal is to generate insights that support better understanding of global health challenges and inform public health planning and decision-making.
@@ -55,7 +55,7 @@ Two interactive dashboards were built to analyze the mortality rate in 30 years.
 
 ![](Distributions.png)
 
-##Insights and Findings
+## Insights and Findings
 The analysis recorded approximately **1.49 billion deaths** across 208 countries and 31 causes over the 30-year period. Global deaths increased from approximately 44 million in 1990 to nearly 55 million in 2019, with a more noticeable upward trend from 2000 onwards. The increasing number of deaths highlights the growing global mortality burden and the need for stronger public health interventions.
 
 Cardiovascular diseases contribute disproportionately to global mortality, accounted for approximately **454 million deaths**, making them the leading cause of death globally. This is almost twice the 235 million deaths attributed to neoplasms (cancers), the second-leading cause. It highlights the importance of addressing heart-related conditions through prevention, early detection and effective treatment.
